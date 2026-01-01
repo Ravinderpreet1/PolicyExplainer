@@ -1,25 +1,3 @@
 streamlit>=1.30
 openai>=1.0.0
 PyPDF2
-
-
-# Core ML / NLP
-sentence-transformers>=5.0.0
-transformers>=4.41.0
-torch==2.2.0 --index-url https://download.pytorch.org/whl/cpu
-huggingface-hub>=0.20.0
-
-# Data & math
-numpy>=1.26.0
-scikit-learn>=1.4.0
-scipy
-
-# PDF / DOCX handling
-pymupdf
-python-docx
-
-# Utilities
-tqdm
-requests
-pandas
-
