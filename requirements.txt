@@ -1,4 +1,7 @@
-streamlit>=1.32
+streamlit>=1.30
+openai>=1.0.0
+PyPDF2
+
 
 # Core ML / NLP
 sentence-transformers>=5.0.0
@@ -19,3 +22,4 @@ python-docx
 tqdm
 requests
 pandas
+
